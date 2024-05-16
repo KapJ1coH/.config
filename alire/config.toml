@@ -1,0 +1,15 @@
+[editor]
+cmd = "nvim ."
+[toolchain]
+assistant = false
+[toolchain.external]
+gnat = false
+gprbuild = false
+[toolchain.use]
+gnat = "gnat_native=12.2.1"
+gprbuild = "gprbuild=22.0.1"
+[user]
+email = "tima.mtl@gmail.com"
+github_login = "KapJ1coH"
+name = "S"
+
